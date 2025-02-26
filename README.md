@@ -6,7 +6,7 @@
   -: contract to create images and drop it to wallet address
 
 
-#architechture
+# architechture
 -: chat agent kit to generate nfts and send to address
 -: bot will trigger chat agent
 -: nfts images will be stored in dec. storage to avoid large data on chain as well as create a link for metadata uri
